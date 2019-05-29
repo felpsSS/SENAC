@@ -7,21 +7,20 @@ Usando **DART** e **FLUTTER**
 Espaço reservado em memoria para armazenar um valor temporiamente
 
 ##Tipos de variaves
-**String** - textos
-**int** - numeros inteiros 
-**double - numeros decimais
+- **String** - textos
+- **int** - numeros inteiros 
+- **double - numeros decimais
 
-`` 
+``` 
 void(){
 Stringnome ="thiago";
 int idade = 29
 doublealtura = 1.71
 )
-``i"ago 
+``` 
 
 ### exemplo 2 - calculo simples
-``
-
+``` 
 void main{
 
 String nome , sobrenome, email
@@ -30,3 +29,8 @@ int ano_nasc, idade;
 nome = "Jhon"
 sobrenome = "Connor";
 email = "raul.sjbv@gmail.com
+``` 
+ano_nasc = 2002
+idade = 2019 - ano_nasc;
+print("Boa Tarde $nome $sobrenome");
+print("SEu e-mail")
