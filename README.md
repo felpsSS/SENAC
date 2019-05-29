@@ -31,6 +31,6 @@ sobrenome = "Connor";
 email = "raul.sjbv@gmail.com
 ``` 
 ano_nasc = 2002
-idade = 2019 - ano_nasc;
+idade = 16 - ano_nasc;
 print("Boa Tarde $nome $sobrenome");
 print("SEu e-mail")
