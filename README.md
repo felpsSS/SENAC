@@ -41,7 +41,7 @@ print("SEu e-mail")
 
 ## Aula 2
 
-##$(Renda_oessoa.tostringAsFixed(2))##
+##$(Renda_pessoa.tostringAsFixed(2))##
 
 O metódo ToStringFixed() foi usado para formatar as casas (2) decimais na variavel double
 
