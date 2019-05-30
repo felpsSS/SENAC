@@ -26,8 +26,8 @@ void main{
 String nome , sobrenome, email
 int ano_nasc, idade;
 
-nome = "Jhon"
-sobrenome = "Connor";
+nome = "Raul"
+sobrenome = "Santos";
 email = "raul.sjbv@gmail.com
 ``` 
 ano_nasc = 2002
