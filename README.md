@@ -133,7 +133,7 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
  }
     else
  {   
-    print("aposto que voce faz ADM.");
+    print(" HUM VACILÂO aposto que voce faz ADM.");
  }
  
  
