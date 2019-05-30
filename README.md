@@ -97,3 +97,43 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
   print("Renda por Pessoa: R\$ {$renda_pessoa}");
   
   ```
+  
+  ## Condição logica IF
+  
+  O IF serve para detrminar se um bloco de instrução ##deve## ou ##não## ser executado, pode-se dizer que sempre que for necessario ##testar## algum valor usaremos o #if#.
+  
+  ###operadores Logicos 
+  - == *igualdade*
+  - != Diferentes8
+  - \>= *Menor ou Igual*
+  - >= *Menor ou Igual*
+  - \> *Maior*
+  - > *Menor*
+  
+  ### Sintaxe 
+  
+  ```Dart
+  if(teste_logico)
+  {
+      //Faz isso se o teste for verdadeiro 
+  }
+  else
+     //Faz isso se o teste for falso
+ }
+ ```
+ 
+ ### EXEMPLO IF
+ 
+ ```Dart
+ String curso = "Programador Android";
+ 
+ If(Curso == "programador android")
+{
+    print("Parabéns, voce faz otimas escolhas");
+ }
+    else
+ {   
+    print("aposto que voce faz ADM.");
+ }
+ 
+ 
