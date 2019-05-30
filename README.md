@@ -11,6 +11,8 @@ Espaço reservado em memoria para armazenar um valor temporiamente
 - **int** - numeros inteiros 
 - **double - numeros decimais
 
+## exemplo 1 - Tipos de variaveis
+
 ``` 
 void(){
 Stringnome ="Raul";
