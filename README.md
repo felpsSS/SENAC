@@ -124,7 +124,7 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
  }
  ```
  
- ### EXEMPLO IF: +1:
+ ### EXEMPLO IF :+1:
  
  ```Dart
  String curso = "Programador Android";
