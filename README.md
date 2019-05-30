@@ -82,6 +82,8 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
   }  
   
   print("E-mail: $email");
+  
+  
   print("Sexo: $sexo");
   print("Celular: $celular");
   print("Ano de nascimento: $ano_nasc");
@@ -122,7 +124,7 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
  }
  ```
  
- ### EXEMPLO IF
+ ### EXEMPLO IF: +1:
  
  ```Dart
  String curso = "Programador Android";
