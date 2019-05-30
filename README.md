@@ -13,9 +13,9 @@ Espaço reservado em memoria para armazenar um valor temporiamente
 
 ``` 
 void(){
-Stringnome ="thiago";
-int idade = 29
-doublealtura = 1.71
+Stringnome ="Raul";
+int idade = 16
+doublealtura = 1.74
 )
 ``` 
 
