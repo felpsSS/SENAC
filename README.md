@@ -120,7 +120,7 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
  print(math.pow(2,7)); //exibe o resultado de 2 elevado a 7
  ```
 
- ### Exemplo usando if dentro de if9LOGIN E EQUAÇÃO DE 2/ GRAU)
+ ### Exemplo usando if dentro de if(LOGIN E EQUAÇÃO DE 2° GRAU)
  ```dart
 import 'dart:math' as math;
 void main() {
