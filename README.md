@@ -107,6 +107,20 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
  ```
   ## AULA 3 - logica com DART 
  ### Exemplo usando if (login e equação de 2ºgrau)
+ Foi importada a *bliblioteca* **dart:math** para podermos usar funções matematicas como potencia e raiz quadrada, no exemplo abaixo foi usada a finção **math.sqrt()** para calcular a raiz de delta.
+ 
+ -Após a importação foi dado um "apelido" para chamar a função atraves da sintaxe **as**(dart_math as **math**)
+ -Foram usador 2 if, o 1º para dar acesso atraves da palavra magica SHAZAM e o 2° para fazer a equação.
+ -Cada if tem seu propio else, daí a importancia de *identar* , organizar o codigo com **tabs**
+ 
+ ### exemplos USANDO MATH
+ ```dart
+ print9math.sqrt(9)); //exibe a raiz de 9
+ print(math.pi); //exibe o valor de pi
+ print(math.pow(2,7)); //exibe o resultado de 2 elevado a 7
+ ```
+
+ ### Exemplo usando if dentro de if9LOGIN E EQUAÇÃO DE 2/ GRAU)
  ```dart
 import 'dart:math' as math;
 void main() {
