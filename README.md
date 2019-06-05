@@ -138,4 +138,62 @@ String nome, sobrenome, email, senha, cpf, endereco,  sexo, celular, curso, nome
     print(" HUM VACILÂO aposto que voce faz ADM.");
  }
  
+ ```
+  ## AULA 3 - logica com DART 
  
+ ### Exemplo usando if (login e equação de 2ºgrau)
+ 
+ ```dart
+ 
+import 'dart:math' as math;
+void main() {
+  String palavra_magica;
+  
+  palavra_magica = "abre te sesamo";
+    
+  if(palavra_magica == "abre te sesamo")  
+  
+  {
+    print("exercicio 1 - Bhaskara");
+    
+   double delta, a, b, c;
+    a= 1;
+    b= -10;
+    c= 25;
+    
+    delta = (b * b) - 4 * a * c ;
+    print("o delta = $delta");
+    if(delta <0)
+    {
+     print("nenhuma raiz real porque o delta é menor que zero."); 
+      
+    }
+    else
+    	{  
+         
+      double raiz_q, x1, x2; 
+      //Raiz Quadrada
+      raiz_q = math.sqrt(delta);
+      print("A raiz de delta = $raiz_q");
+      x1 = (-b + raiz_q) / (2 * a);
+      x2 = (-b - raiz_q) / (2 * a);
+      print("x1 = $x1");
+      print("x2 = $x2");
+              
+      
+    
+    
+    
+    
+    }
+      
+  }
+  else
+  {
+    print("Acessorio negado, voce nao é Digno");
+  }
+  
+}
+ 
+ 
+```
