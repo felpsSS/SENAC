@@ -208,7 +208,14 @@ print("pratense");
     "Somente será FALSO se todas as expressões forem FALSAS".
      ```
      ```
-   ### Operador Logico
+   ###  Aula 4 - Operador Logico
+   
+   ### Operador E(AND) &&
+   * "somente sera **VERDADE** se todas as expressoes forem verdade.
+   ### Operador OU(OR) ||
+   *"Somente sera **FALSO** se todas as expressoes forem FALSOS.
+   
+   ## EXEMPLO teste boolsano
    
       bool var_a, var_b;
   
