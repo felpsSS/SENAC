@@ -196,3 +196,14 @@ print("pratense");
       print("cacondense");
     }
     ```
+    ```
+  ### Operador Logico
+  
+    E (AND) &&
+    
+  "Somente será VERDADE se todas as expressões forem VERDADE".
+    
+   OU  (OR) ||
+    
+    "Somente será FALSO se todas as expressões forem FALSAS".
+     ```
