@@ -291,4 +291,11 @@ void main() {
       
    }   
    ```
-
+  ## AULA FLUTTER
+  
+  **PRIMEIRO CONTATO:**
+  
+  Entrar em flutter.dev (ou flutter.io) e procurar o local para começar a utilizar o flutter (Get Started)
+  Seguir os apssos de instalação, que cosntituem basicamentr de:
+   - Baixaar o SDK do flutter e coloca-lo na pasta "C:\src\flutter"
+    _
