@@ -311,5 +311,5 @@ void main() {
   2.Abrir a Maquina vitual (EMULADOR do ANDROID)
   3.Apertar o portão "start new Flutter Project" (iniciar novo projeto do flutter)
   4.Escolher APLICATIVO FLUTTER
-  5.Colocar o nome do projeto, descrição, e o caminhodo do SDK
+  5.Colocar o nome do projeto, descrição, e o caminho do SDK
   6.Nome da empresa (não mudou nada)
