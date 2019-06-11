@@ -291,6 +291,7 @@ void main() {
       
    }   
    ```
+   ```
   ## AULA FLUTTER
   
   **PRIMEIRO CONTATO:**
@@ -298,4 +299,9 @@ void main() {
   Entrar em flutter.dev (ou flutter.io) e procurar o local para começar a utilizar o flutter (Get Started)
   Seguir os apssos de instalação, que cosntituem basicamentr de:
    - Baixaar o SDK do flutter e coloca-lo na pasta "C:\src\flutter"
-    _
+   - Baixar e instalar o android Studio
+   - Configurar o plugin do flutte no android Studio
+    - Rodar o comamdo "flutter doctor" no prompt de comando pra certificar que esta tudo ok.
+    
+    ```
+ **CRIAÇÂO do PRIMEIRO APP**
