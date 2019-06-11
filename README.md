@@ -301,7 +301,7 @@ void main() {
    - Baixaar o SDK do flutter e coloca-lo na pasta "C:\src\flutter"
    - Baixar e instalar o android Studio
    - Configurar o plugin do flutte no android Studio
-    - Rodar o comamdo "flutter doctor" no prompt de comando pra certificar que esta tudo ok.
+   - Rodar o comamdo "flutter doctor" no prompt de comando pra certificar que esta tudo ok.
     
  
  **CRIAÇÂO do PRIMEIRO APP**
