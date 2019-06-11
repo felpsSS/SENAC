@@ -303,5 +303,6 @@ void main() {
    - Configurar o plugin do flutte no android Studio
     - Rodar o comamdo "flutter doctor" no prompt de comando pra certificar que esta tudo ok.
     
-    ```
+ 
  **CRIAÇÂO do PRIMEIRO APP**
+ ```
