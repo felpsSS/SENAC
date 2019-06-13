@@ -56,5 +56,11 @@ void main() {
 SCAFFOLD
 - E uma importante estrutura basica de layout do Widget Material Design.
 - Permite montar a estrutura basica de uma tela, adicionar itens como: AppBar, FloatingActionButton,
-BottomnavigationBar,Drawer além do propio conteúdo da tela
+BottomNavigationBar,Drawer além do propio conteúdo da tela
  
+-APPBAR(é a barra superior acima do APP)
+-FloatingActionButton(é um tipo de variavel usado para valores decimais com virgula)
+-BottomNavigationBar(é um menu fixo na parte de baixo)
+-DRAWER(é um menu utilizado para a interação dos usuarios)
+
+
