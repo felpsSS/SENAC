@@ -72,4 +72,48 @@ Detalhe importante que essas propriedades sao do widget Text, por isso estão de
           ), // Material
           ); // RunApp
           
-         
+         runApp(
+    MaterialApp(
+      home: Scaffold(
+        drawer: Drawer(
+          child:ListView(
+            children: <Widget>[
+
+              UserAccountsDrawerHeader(
+                accountName:
+                Text("Raul Santos",
+                  style: TextStyle(color: Colors.amberAccent,
+                      fontSize: 20.0), // TextStyle
+                 
+                ), // Text
+                accountEmail:
+                Text("Raul.SJBV@gmail.com"),
+          currentAccountPicture:
+          Image.network('https://avatars1.githubusercontent.com/u/51175595?s=460&v=4'),
+                decoration:  BoxDecoration(
+                    color: Colors.blue
+                ), // BoxDecoration
+              ), // userAccountsDrawerHeader
+              ListTile(
+                title: Text("Menu 1"),
+                trailing: Icon(Icons.account_box),
+               ),
+                 // ListTile
+                  ListTile(
+                  title: Text("Menu 2"),
+                      trailing:  Icon(Icons.share)
+              ), // ListTitle
+            ], // <Widget> []
+          ), // ListView
+        ), // Drawer
+        appBar:AppBar(
+          title: Text("Titulo do App"),
+          centerTitle: true,
+          backgroundColor: Colors.black,
+        ), // AppBar
+        body:TextField(
+      ), // TextField
+    ), // Scaffold
+  ), // MaterialApp
+
+  );
