@@ -52,3 +52,11 @@ Para o app da calculadora simples, utilizamos os seguintes widgets:
  children (são varios widgets)
 - Center
  - Serve para centralizar o widget que for passado como filho (child).
+
+### Eventos (funções) utilizadas
+
+ -onChanged:
+  - Foi utilizado na Dropdownbutton para atualizar a operação escolhida
+  - Foi utilizada no RaisedButton para realizar o cálculo
+  -setState;
+   - Utilizado **Sempre** que a tela precisou ser *atualizada*.
