@@ -33,3 +33,22 @@ class _ClasseComEstadoState extends State<ClasseComEstado> {
 }
 
 ```
+
+### Widgets utilizados
+
+Para o app da calculadora simples, utilizamos os seguintes widgets:
+- Conteiner
+ - Ela serve para colocar texto e para colocar outros widgets.Ele pode ter também margem interna.
+- TextField
+ - Campo de texto permite que os usúarios digitem texto em um aplicativo
+- SizedBox
+ - Serve como  espaçamento entre um widget e outro. Pode ser espaçamento vertical e horizontal.
+- DropDownButton
+ - É um botão que, quando pressionado, lista as opções criadas.
+- RaisedButton
+ - Serve como botão.
+- Column
+ - É UM WIDGET de layout para colocar outros widget um embaixo do outro. Aceita um parametro
+ children (são varios widgets)
+- Center
+ - Serve para centralizar o widget que for passado como filho (child).
